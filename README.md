@@ -1,6 +1,7 @@
+(https://uob.edu.ly/assets/all/images/uob_logo2.png)
 # Telecom Introduction course at mybinder.org
 
-[![UoB](https://uob.edu.ly/assets/all/images/uob_logo2.png)](https://mybinder.org/v2/gh/binder-examples/octave/master?filepath=index.ipynb)
+[![myBinder]] (https://mybinder.org/v2/gh/binder-examples/octave/master?filepath=index.ipynb)
 
 An example of using Octave on [mybinder.org](https://mybinder.org/).
 
