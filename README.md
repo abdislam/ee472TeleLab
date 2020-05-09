@@ -1,4 +1,4 @@
-[![](https://uob.edu.ly/assets/all/images/uob_logo2.png)]
+![](https://uob.edu.ly/assets/all/images/uob_logo2.png)
 # Telecom Introduction course at mybinder.org
 
 [![myBinder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/abdislam/ee419tele1/master?filepath=index.ipynb)
