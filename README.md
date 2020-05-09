@@ -10,4 +10,4 @@ This shows you how to make Matlab code that works with [Octave](https://www.gnu.
 The [example notebook](index.ipynb) is taken from the [octave_kernel](https://github.com/Calysto/octave_kernel) repository.
 
 ## Contents
-![index](ee419tele1/index.ipynb)
+[index](index.ipynb)
