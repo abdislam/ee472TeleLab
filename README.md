@@ -9,4 +9,4 @@ The [example notebook](index.ipynb) is taken from the [octave_kernel](https://gi
 
 ## Contents
 [index](index.ipynb)
-[introduction to Octave / Matlab] (intro.ipynb)
+[introduction to Octave / Matlab](intro.ipynb)
