@@ -10,6 +10,6 @@ The [example notebook](index.ipynb) is taken from the [octave_kernel](https://gi
 ## Contents
 [index](index.ipynb)
 
-[introduction to Octave / Matlab](Matlab_basics.ipynb)
+[introduction to Octave / Matlab](matlab_basics.ipynb)
 
-[Fourier Series](Fourier_seris.ipynb)
+[Fourier Series](Fourier_series.ipynb)
