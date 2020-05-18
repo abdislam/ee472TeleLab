@@ -1,5 +1,6 @@
 gnuplot
 ghostscript
 octave
-sympy
+liboctave-dev
+python-sympy
 octave-symbolic
