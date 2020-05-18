@@ -1,4 +1,4 @@
 gnuplot
 ghostscript
 octave
-octave-syms
+octave-symbolic
