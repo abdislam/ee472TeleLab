@@ -2,6 +2,4 @@ gnuplot
 ghostscript
 octave
 liboctave-dev
-mpmath
-sympy
 octave-symbolic
