@@ -3,3 +3,4 @@ ghostscript
 octave
 liboctave-dev
 octave-symbolic
+octave-communications
