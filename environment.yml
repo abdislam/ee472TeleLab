@@ -1,4 +1,2 @@
 dependencies:
 - octave_kernel
-- mpmath
-- sympy
